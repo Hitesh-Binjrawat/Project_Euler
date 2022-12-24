@@ -1,0 +1,8 @@
+﻿  largest prime factor.cpp
+e:\hitesh\c+\eulers project\largest prime factor\largest prime factor\largest prime factor.cpp(35): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+e:\hitesh\c+\eulers project\largest prime factor\largest prime factor\largest prime factor.cpp(38): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+e:\hitesh\c+\eulers project\largest prime factor\largest prime factor\largest prime factor.cpp(44): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+e:\hitesh\c+\eulers project\largest prime factor\largest prime factor\largest prime factor.cpp(31): warning C4101: 'b': unreferenced local variable
+e:\hitesh\c+\eulers project\largest prime factor\largest prime factor\largest prime factor.cpp(46): warning C4715: 'prime': not all control paths return a value
+  largest prime factor.vcxproj -> E:\Hitesh\C+\Eulers Project\largest prime factor\Debug\largest prime factor.exe
+  largest prime factor.vcxproj -> E:\Hitesh\C+\Eulers Project\largest prime factor\Debug\largest prime factor.pdb (Full PDB)
