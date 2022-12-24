@@ -1,0 +1,5 @@
+﻿  5. Smallest multiple.cpp
+e:\hitesh\c+\5. smallest multiple\5. smallest multiple\5. smallest multiple.cpp(38): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+e:\hitesh\c+\5. smallest multiple\5. smallest multiple\5. smallest multiple.cpp(29): warning C4101: 'p': unreferenced local variable
+  5. Smallest multiple.vcxproj -> E:\Hitesh\C+\5. Smallest multiple\Debug\5. Smallest multiple.exe
+  5. Smallest multiple.vcxproj -> E:\Hitesh\C+\5. Smallest multiple\Debug\5. Smallest multiple.pdb (Full PDB)
