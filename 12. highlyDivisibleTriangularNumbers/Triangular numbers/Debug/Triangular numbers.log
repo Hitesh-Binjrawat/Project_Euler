@@ -1,0 +1,4 @@
+﻿  Triangular numbers.cpp
+e:\hitesh\c+\1. eulers project\12. highlydivisibletriangularnumbers\triangular numbers\triangular numbers.cpp(39): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  Triangular numbers.vcxproj -> E:\Hitesh\C+\1. Eulers Project\12. highlyDivisibleTriangularNumbers\Debug\Triangular numbers.exe
+  Triangular numbers.vcxproj -> E:\Hitesh\C+\1. Eulers Project\12. highlyDivisibleTriangularNumbers\Debug\Triangular numbers.pdb (Full PDB)
