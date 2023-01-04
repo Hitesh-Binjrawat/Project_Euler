@@ -22,7 +22,7 @@ int main()
 		a[i] = ste[i] - 48;
 		cout << a[i];
 	}
-/*	for (i = 1; i <= 1000 - 12; i++)
+	for (i = 1; i <= 1000 - 12; i++)
 	{
 		Product1 = 1;
 		for (int j = 0; j < 13; j++)
@@ -39,7 +39,7 @@ int main()
 		}
 		else continue;
 	}
-	cout << MaxProduct;*/
+	cout << MaxProduct;
 	system("pause");
 	return 0;
 }
